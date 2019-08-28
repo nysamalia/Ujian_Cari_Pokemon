@@ -1,0 +1,16 @@
+body {
+    background: "https://images4.alphacoders.com/125/thumb-350-125994.jpg"}
+
+
+
+
+img.resize {
+    max-width:50%;
+    max-height:50%;
+  }
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
